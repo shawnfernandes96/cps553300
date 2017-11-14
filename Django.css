@@ -1,0 +1,27 @@
+html {
+	margin: 0;
+	padding: 0;
+	}
+body { 
+	font: 75% Comic Sans MS;
+	line-height: 1.88889;
+	margin: 0; 
+	padding: 0;
+	background-color: yellow;
+	}
+	
+p { 
+	margin-top: 0; 
+	color:red;
+	text-align: justify;
+	}
+h1 { 
+	text-align:center;
+	height:150px;
+	color:black;
+	font-style: bold;
+	font-size: 60px;
+	text-shadow: #000 0px 0px 4px;
+	}
+	
+div.backg{background:rgba(255,255,255,0.9); border-radius:18px;}
